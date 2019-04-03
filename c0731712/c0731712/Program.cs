@@ -10,6 +10,7 @@ namespace c0731712
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("aman");
         }
     }
 }
